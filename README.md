@@ -16,3 +16,6 @@ It's a simple web-app where you have to put your details:-
  
 * first fill or add form then click find my dish then you can check result.
 <img src="https://github.com/sambitsargam/find-my-food/blob/main/img/2.png">
+
+# full process
+<img src="https://github.com/sambitsargam/find-my-food/blob/main/img/3.gif">
