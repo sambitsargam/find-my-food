@@ -71,7 +71,7 @@ function Home(props) {
 
         <div class="d-grid gap-5 d-sm-flex justify-content-sm-center mt-4 pt-3">
           <Link to="/results">
-            <button type="button" class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Find Me Dishes!</button>
+            <button type="button" class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Find My Dishes!</button>
           </Link>
         </div>
       </div>
