@@ -19,3 +19,5 @@ It's a simple web-app where you have to put your details:-
 
 # full process
 <img src="https://github.com/sambitsargam/find-my-food/blob/main/img/3.gif">
+
+<img src="https://github.com/sambitsargam/find-my-food/blob/main/img/4.png">
